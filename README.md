@@ -6,12 +6,16 @@ Forecasting closing prices of Yes Bank stock using machine learning models.
 
 yes-bank-stock-prediction/
 ├── data/
+
 │ └── data_YesBank_StockPrices.csv # Historical stock dataset
 ├── model/
+
 │ └── linear_regression_model.joblib # Trained Linear Regression model
 ├── notebooks/
+
 │ └── yesbank_stock_prediction.ipynb # Notebook with code & outputs
 ├── reports/
+
 │ └── yesbank_stock_prediction_final.pdf # Final report with charts & insights
 └── README.md # Project overview
 
